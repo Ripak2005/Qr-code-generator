@@ -7,7 +7,6 @@ A simple and responsive QR Code Generator built using **HTML, CSS, and JavaScrip
 ## 📽️ Quick Demo Video
 
 ▶️ [Watch Quick Demo](https://drive.google.com/file/d/1x4J63MTXMSVS4MeZXjT_S5ZPxNlKHnsB/view?usp=sharing)  
-*(Replace with actual video link once uploaded to YouTube or Google Drive)*
 
 ---
 
